@@ -8,7 +8,7 @@ Sou o criador do Monolitos Wars, projeto premiado pela Feira do Conhecimento 202
 
 Atualmente meu objetivo é migrar e me consolidar para a área da TI.
 
-## Oportunidades nas áreas de programação Back-end ou Fullstack. Mas vale destacar a minha experiencia com suporte e Front-end.
+## Buscando portunidades nas áreas de programação Back-end ou Fullstack. Mas vale destacar a minha experiencia com suporte e Front-end.
 Sigo estudando e me preparando cada vez mais para alcançar meus objetivos de transição de carreira e consolidação.
 
 
