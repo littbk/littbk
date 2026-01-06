@@ -50,4 +50,6 @@ Sigo estudando e me preparando cada vez mais para alcançar meus objetivos de tr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/littbk/)
 [![Whastapp](https://img.shields.io/badge/-Whatsapp-darkgreen?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/5588999571992)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:litt0070@gmail.com)
+
 [![Monólitos Wars](https://img.shields.io/badge/Monólitos_Wars-GooglePlay-black)](https://play.google.com/store/apps/details?id=com.bkgames.MonolitosWarsBeta&hl=pt_BR)
+[![Monólitos Wars](https://img.shields.io/badge/Monólitos_Wars-Navegador-orange)](https://play.google.com/store/apps/details?id=com.bkgames.MonolitosWarsBeta&hl=pt_BR)
