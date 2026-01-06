@@ -52,4 +52,4 @@ Sigo estudando e me preparando cada vez mais para alcançar meus objetivos de tr
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:litt0070@gmail.com)
 
 [![Monólitos Wars](https://img.shields.io/badge/Monólitos_Wars-GooglePlay-black)](https://play.google.com/store/apps/details?id=com.bkgames.MonolitosWarsBeta&hl=pt_BR)
-[![Monólitos Wars](https://img.shields.io/badge/Monólitos_Wars-Navegador-orange)](https://play.google.com/store/apps/details?id=com.bkgames.MonolitosWarsBeta&hl=pt_BR)
+[![Monólitos Wars](https://img.shields.io/badge/Monólitos_Wars-Navegador-orange)](https://gx.games/pt-br/games/ra7od4/monolitos-wars-1-3/tracks/2fb4c0ae-d420-4c5d-9fe7-be5c1d41cd3b/)
