@@ -1,5 +1,5 @@
 # Hello World!
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Littbarski%20Santos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100%&color=gradient&text=Littbarski%20Santos" />
 
 ## Desenvolvedor Back-end em transição. 
 
